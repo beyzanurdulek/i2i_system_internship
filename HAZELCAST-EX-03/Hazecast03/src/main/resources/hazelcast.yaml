@@ -1,0 +1,6 @@
+hazelcast:
+  cluster-name: dev
+  jet:
+    enabled: true
+  properties:
+    hazelcast.logging.type: log4j2
